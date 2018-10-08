@@ -2,43 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="06332b9f-9031-400b-b3f8-f2b16615c65d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/cardealership/frontend/src/components/DataProvider.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cardealership/frontend/src/components/Table.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cardealership/frontend/src/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cardealership/frontend/templates/frontend/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cardealership/frontend/urls.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/webpack.config.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.bowerrc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.buildpacks" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Procfile" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bower.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cardealership/cardealership/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/cardealership/cardealership/models.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cardealership/cardealership/serializers.py" beforeDir="false" afterPath="$PROJECT_DIR$/cardealership/cardealership/serializers.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cardealership/cardealership/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/cardealership/cardealership/urls.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cardealership/cardealership/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/cardealership/cardealership/views.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cardealership/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/cardealership/settings.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cardealership/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/cardealership/urls.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gulpfile.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/requirements.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/scripts/postInstall.sh" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/javascripts/thinkster.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/lib/snackbarjs/snackbar.min.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/lib/snackbarjs/snackbar.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/stylesheets/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/.babelrc" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/javascripts.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/navbar.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/stylesheets.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/thinkster_django_angular_boilerplate/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/cardealership/frontend/src/components/App.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/thinkster_django_angular_boilerplate/manage.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/thinkster_django_angular_boilerplate/settings.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/thinkster_django_angular_boilerplate/urls.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/thinkster_django_angular_boilerplate/views.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/thinkster_django_angular_boilerplate/wsgi.py" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -83,7 +47,7 @@
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="Python Console" value="67" />
-          <entry key="gitignore" value="25" />
+          <entry key="gitignore" value="35" />
           <entry key="js" value="153" />
           <entry key="json" value="33" />
           <entry key="py" value="2933" />
@@ -94,7 +58,7 @@
         <counts>
           <entry key="JSON" value="33" />
           <entry key="JavaScript" value="153" />
-          <entry key="PLAIN_TEXT" value="56" />
+          <entry key="PLAIN_TEXT" value="66" />
           <entry key="Python" value="3000" />
         </counts>
       </usages-collector>
@@ -203,8 +167,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/.gitignore">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="315">
-              <caret line="21" column="17" selection-start-line="21" selection-start-column="17" selection-end-line="21" selection-end-column="17" />
+            <state relative-caret-position="330">
+              <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
             </state>
           </provider>
         </entry>
@@ -669,8 +633,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="21" column="17" selection-start-line="21" selection-start-column="17" selection-end-line="21" selection-end-column="17" />
+        <state relative-caret-position="330">
+          <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
         </state>
       </provider>
     </entry>
