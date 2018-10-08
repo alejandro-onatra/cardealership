@@ -15,3 +15,10 @@ dist/
 
 # Staticfiles
 staticfiles/
+
+#database
+db.sqlite
+
+package-lock.json
+
+

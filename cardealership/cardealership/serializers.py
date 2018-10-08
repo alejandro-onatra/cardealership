@@ -6,7 +6,7 @@ class CarSerializer(serializers.Serializer):
 
     id = serializers.IntegerField( read_only=True )
     brand = serializers.ChoiceField( choices=MODEL_CHOICES, required=True )
-    year = serializers.DateField( required=True )
+    year = serializers.IntegerField( required=True )
     model = serializers.CharField( max_length=60, required=True )
 
     def create(self, validated_data):

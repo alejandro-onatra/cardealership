@@ -19,5 +19,6 @@ from django.contrib import admin
 urlpatterns = [
 
     url( r'^', include('cardealership.cardealership.urls') ),
+    url( '', include('cardealership.frontend.urls') ),
     url( r'^admin/', admin.site.urls),
 ]
