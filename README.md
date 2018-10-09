@@ -1,4 +1,4 @@
-# cardealership
+# Cardealership
 
 ## Prerequisites
 
@@ -35,3 +35,11 @@ Here initially you will see two empty lists, this is because there is no data on
 
 - The application was developed in Python with DJANGO framework for the backend.
 - The small and simple frontend was developed with React/ ES6 / webpack
+- The DB is the embbeded with DJango SQlite
+- There is no authentication for user but theres the ADMIN console for DJango (admin/admin :) )
+- The dockerization was done without docker compose
+
+## Useful links
+
+- [Dockerfile Repo](https://github.com/alejandro-onatra/cardealership-docker)
+- [Docker image repo](https://hub.docker.com/r/neocloud19/carrental-django/)
