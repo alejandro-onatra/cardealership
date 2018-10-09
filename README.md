@@ -38,6 +38,7 @@ Here initially you will see two empty lists, this is because there is no data on
 - The DB is the embbeded with DJango SQlite
 - There is no authentication for user but theres the ADMIN console for DJango (admin/admin :) )
 - The dockerization was done without docker compose
+- The frontend was provided as-is , 'production ready', the sources were included but no building was done on docker.
 
 ## Useful links
 
