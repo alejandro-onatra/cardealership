@@ -27,8 +27,8 @@ Here initially you will see two empty lists, this is because there is no data on
 
 - 127.0.0.1:8000/api/cars/ -> list of all the cars with some CRUD operation support (ADMIN view)
 - 127.0.0.1:8000/api/rentals/ -> list of all the rentals with some CRUD operation support (ADMIN view)
-- 127.0.0.1:8000/api/car/<id> ->  car detail data with all CRUD operation support (ADMIN view)
-- 127.0.0.1:8000/api/rentals/<id> -> rental detail with all CRUD operation support (ADMIN view)
+- 127.0.0.1:8000/api/car/[id]/ ->  car detail data with all CRUD operation support (ADMIN view)
+- 127.0.0.1:8000/api/rentals/[id]/ -> rental detail with all CRUD operation support (ADMIN view)
 - 127.0.0.1:8000/ -> rental and car list for customers (USER view)
 
 ## Notes on the APP development
